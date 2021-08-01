@@ -1,0 +1,12 @@
+.wrap{
+    height: 100vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+
+}
+.jbt{
+    background-color: white;
+    height:50%;
+    min-width: 300px;
+}
